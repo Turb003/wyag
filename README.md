@@ -1,2 +1,3 @@
 # wyag
-# self project of write yourself a git
+# self project of writing yourself a git
+repo link: https://wyag.thb.lt/#init
