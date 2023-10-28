@@ -4,7 +4,6 @@
 repo link: https://wyag.thb.lt/#init
 =======
 # self project of "write yourself a git" 
-# link: https://wyag.thb.lt/#init
->>>>>>> c43a87a (class initializedObject created)
+link: https://wyag.thb.lt/#init
+(class initializedObject created)
 
-initilizedRepo object creaetd 
